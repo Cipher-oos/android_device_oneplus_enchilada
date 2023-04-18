@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2018-2019 The aospOS Project
+# Copyright (C) 2018-2019 The bananaOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_enchilada.mk
+    $(LOCAL_DIR)/banana_enchilada.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_enchilada-user \
-    aosp_enchilada-userdebug \
-    aosp_enchilada-eng
+    banana_enchilada-user \
+    banana_enchilada-userdebug \
+    banana_enchilada-eng
